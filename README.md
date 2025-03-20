@@ -6,13 +6,9 @@ With 9+ years of experience, I specialize in front-end, back-end, and database m
 
 Passionate about solving data challenges, automating workflows, and enhancing performance, I’m always eager to explore new technologies and contribute to impactful projects.
 
-
-<p align = "left">
-  
-[<img src ="https://img.shields.io/badge/Portfolio-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=red">](https://karthick-portfolio-kappa.vercel.app/)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />](https://www.linkedin.com/in/karthick-maniram/)
-
-</p>
+###
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=for-the-badge)](https://karthick-portfolio-kappa.vercel.app/)
+[![Linkedin](https://img.shields.io/badge/-linkedin-3776AB?style=for-the-badge)](https://www.linkedin.com/in/karthick-maniram/)
 
 
 ### Programming Languages:
